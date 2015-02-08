@@ -13,7 +13,7 @@ package practica.lenguajes;
 import java.io.*;
 import java.util.*;
 public class AnalizadorLexico {
-    
+    // comenten
     lista l;
     
     
